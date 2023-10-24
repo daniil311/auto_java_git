@@ -21,7 +21,7 @@ tasks.withType(JavaCompile) {
 }
 
 dependencies {
-    testImplementation('com.codeborne:selenide:5.25.0')
+    testImplementation('com.codeborne:selenide:6.12.3')
     testImplementation("io.qameta.allure:allure-selenide:${allureVersion}")
     testImplementation('org.slf4j:slf4j-simple:1.7.30')
 
