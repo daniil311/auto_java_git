@@ -12,7 +12,7 @@ repositories {
 
 ext {
     allureVersion = '2.16.1'
-    junitVersion = '5.8.1'
+    junitVersion = '5.9.1'
 }
 
 
